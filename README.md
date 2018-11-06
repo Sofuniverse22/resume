@@ -13,11 +13,10 @@
 ### Programming Language
 - Java, Python, R, HTML5, CSS, MySQL
 
-### Web Scraping with Python
-
-### Data Analysis with R, Python
-
-### Data Visualization with R, Python, QGIS, Orange
+### Data Analysis Skill
+- Web Scraping with Python
+- EDA with R, Python
+- Data Visualization with R, Python, QGIS, Orange
 
 
 ## 주요 프로젝트 경력
