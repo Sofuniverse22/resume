@@ -15,8 +15,8 @@
 
 ### Data Analysis Skill
 - Web Scraping with Python
-- EDA with R, Python
-- Data Visualization with R, Python, QGIS, Orange
+- Data Preprocessing & EDA with R, Python
+- Data Visualization with Tableau, R, Python, QGIS, Orange
 
 
 ## 주요 프로젝트 경력
