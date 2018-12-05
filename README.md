@@ -18,11 +18,11 @@
 - Web Scraping with Python
 - Data Preprocessing & EDA with R, Python
 - Data Visualization with Tableau, R, Python, QGIS, Orange
-
+- Deep learning with Python, TensorFlow
 
 ## 주요 프로젝트 경력
 
-- 주가 예측 프로젝트 
+- 공시 재무데이터를 활용한 주가 예측 프로젝트 
 - 외식 창업프랜차이즈 추천 프로젝트
 - Football Manager 선수 데이터로 시즌 득점왕 예측하기
 
